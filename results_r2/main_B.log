@@ -1,0 +1,91 @@
+B / main: 90 items, 0 already done
+[1/90] R09 reasoning correct=True tokens=9664 959s
+[2/90] R21 reasoning correct=False tokens=2004 200s
+[3/90] R29 reasoning correct=True tokens=4303 428s
+[4/90] C09 coding correct=False tokens=9692 979s
+[5/90] T04 tools correct=True tokens=6811 778s
+[6/90] C30 coding correct=True tokens=4988 510s
+[7/90] C03 coding correct=False tokens=16384 1700s TRUNCATED
+[8/90] R20 reasoning correct=False tokens=3733 378s
+[9/90] C22 coding correct=True tokens=11381 1210s
+[10/90] C05 coding correct=False tokens=16384 1700s TRUNCATED
+[11/90] C01 coding correct=False tokens=16384 1697s TRUNCATED
+[12/90] C24 coding correct=True tokens=6769 689s
+[13/90] R05 reasoning correct=True tokens=5457 549s
+[14/90] T09 tools correct=True tokens=12695 1471s
+[15/90] T01 tools correct=True tokens=14079 1541s
+[16/90] T29 tools correct=True tokens=3586 452s
+[17/90] C11 coding correct=True tokens=6341 636s
+[18/90] T02 tools correct=True tokens=2304 311s
+[19/90] T03 tools correct=True tokens=2546 303s
+[20/90] T25 tools correct=True tokens=3327 410s
+[21/90] C27 coding correct=True tokens=9777 990s
+[22/90] C26 coding correct=False tokens=6544 660s
+[23/90] R16 reasoning correct=True tokens=3384 338s
+[24/90] C04 coding correct=True tokens=9970 1018s
+[25/90] C02 coding correct=False tokens=16384 1705s TRUNCATED
+[26/90] T30 tools correct=True tokens=6178 714s
+[27/90] R10 reasoning correct=False tokens=16384 1663s TRUNCATED
+[28/90] T18 tools correct=True tokens=5527 678s
+[29/90] R07 reasoning correct=False tokens=13622 1382s
+[30/90] T13 tools correct=True tokens=12584 1428s
+[31/90] R11 reasoning correct=True tokens=13087 1329s
+[32/90] T28 tools correct=True tokens=2129 310s
+[33/90] T07 tools correct=True tokens=7208 843s
+[34/90] R18 reasoning correct=False tokens=5843 581s
+[35/90] T06 tools correct=False tokens=3544 437s
+[36/90] R24 reasoning correct=True tokens=8711 874s
+[37/90] R30 reasoning correct=True tokens=2884 292s
+[38/90] T21 tools correct=True tokens=11905 1334s
+[39/90] C13 coding correct=False tokens=9044 905s
+[40/90] T11 tools correct=True tokens=8923 1022s
+[41/90] R15 reasoning correct=True tokens=14064 1421s
+[42/90] R03 reasoning correct=False tokens=6270 624s
+[43/90] T23 tools correct=True tokens=10745 1210s
+[44/90] R13 reasoning correct=True tokens=9049 910s
+[45/90] T14 tools correct=True tokens=3747 479s
+[46/90] T05 tools correct=True tokens=9431 1038s
+[47/90] T12 tools correct=True tokens=10097 1236s
+[48/90] C10 coding correct=False tokens=16384 1694s TRUNCATED
+[49/90] T15 tools correct=True tokens=6911 837s
+[50/90] T16 tools correct=True tokens=4911 569s
+[51/90] T17 tools correct=True tokens=4241 531s
+[52/90] R04 reasoning correct=True tokens=3938 398s
+[53/90] R19 reasoning correct=True tokens=5139 511s
+[54/90] T22 tools correct=True tokens=6245 845s
+[55/90] C19 coding correct=True tokens=12866 1306s
+[56/90] C17 coding correct=True tokens=4984 506s
+[57/90] T20 tools correct=True tokens=3652 467s
+[58/90] C07 coding correct=False tokens=16384 1686s TRUNCATED
+[59/90] C21 coding correct=True tokens=4736 479s
+[60/90] C08 coding correct=False tokens=16384 1696s TRUNCATED
+[61/90] C25 coding correct=False tokens=8559 865s
+[62/90] R26 reasoning correct=False tokens=7568 766s
+[63/90] R28 reasoning correct=False tokens=4377 440s
+[64/90] R17 reasoning correct=True tokens=7859 784s
+[65/90] R08 reasoning correct=False tokens=3256 325s
+[66/90] R27 reasoning correct=False tokens=16384 1680s TRUNCATED
+[67/90] C15 coding correct=False tokens=16384 1699s TRUNCATED
+[68/90] T27 tools correct=True tokens=3665 454s
+[69/90] R02 reasoning correct=True tokens=4164 417s
+[70/90] R23 reasoning correct=True tokens=3584 359s
+[71/90] C20 coding correct=False tokens=16384 1708s TRUNCATED
+[72/90] T08 tools correct=True tokens=12540 1418s
+[73/90] T26 tools correct=True tokens=5993 697s
+[74/90] R22 reasoning correct=True tokens=9602 974s
+[75/90] C18 coding correct=True tokens=6753 676s
+[76/90] T24 tools correct=True tokens=8258 1030s
+[77/90] R25 reasoning correct=True tokens=7786 788s
+[78/90] R01 reasoning correct=False tokens=12645 1289s
+[79/90] C06 coding correct=True tokens=10953 1113s
+[80/90] C16 coding correct=False tokens=11761 1210s
+[81/90] C23 coding correct=False tokens=8215 838s
+[82/90] R06 reasoning correct=False tokens=16384 1678s TRUNCATED
+[83/90] C28 coding correct=True tokens=7132 730s
+[84/90] C29 coding correct=True tokens=8570 888s
+[85/90] R14 reasoning correct=True tokens=7257 731s
+[86/90] R12 reasoning correct=True tokens=5005 499s
+[87/90] T10 tools correct=True tokens=11249 1265s
+[88/90] C12 coding correct=True tokens=8535 866s
+[89/90] C14 coding correct=False tokens=16384 1692s TRUNCATED
+[90/90] T19 tools correct=True tokens=12093 1378s

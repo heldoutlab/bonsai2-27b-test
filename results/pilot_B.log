@@ -1,0 +1,11 @@
+B / pilot: 10 items, 0 already done
+[1/10] RP4 reasoning correct=True tokens=742 74s
+[2/10] CP1 coding correct=True tokens=3436 408s
+[3/10] TP3 tools correct=True tokens=417 90s
+[4/10] RP2 reasoning correct=True tokens=1149 131s
+[5/10] CP2 coding correct=True tokens=1421 154s
+[6/10] RP1 reasoning correct=True tokens=779 81s
+[7/10] TP2 tools correct=True tokens=517 87s
+[8/10] CP3 coding correct=True tokens=1449 146s
+[9/10] RP3 reasoning correct=True tokens=1258 122s
+[10/10] TP1 tools correct=True tokens=444 77s

@@ -1,0 +1,19 @@
+B / xhigh: 18 items, 0 already done
+[1/18] R09 reasoning correct=True tokens=17954 1836s
+[2/18] R21 reasoning correct=True tokens=5690 563s
+[3/18] R29 reasoning correct=True tokens=7080 702s
+[4/18] C09 coding correct=True tokens=26170 2777s
+[5/18] C30 coding correct=True tokens=26355 2807s
+[6/18] C03 coding correct=True tokens=30411 3266s
+[7/18] R20 reasoning correct=False tokens=4169 418s
+[8/18] C22 coding correct=True tokens=30432 3382s
+[9/18] C05 coding correct=False tokens=32768 3662s TRUNCATED
+[10/18] C01 coding correct=False tokens=32768 3570s TRUNCATED
+[11/18] C24 coding correct=True tokens=27081 2883s
+[12/18] R05 reasoning correct=True tokens=4385 454s
+[13/18] C11 coding correct=True tokens=13289 1348s
+[14/18] C27 coding correct=False tokens=32768 3973s TRUNCATED
+[15/18] R16 reasoning correct=True tokens=4460 566s
+[16/18] R10 reasoning correct=True tokens=31121 3593s
+[17/18] R07 reasoning correct=True tokens=26032 2757s
+[18/18] R11 reasoning correct=True tokens=12940 1328s

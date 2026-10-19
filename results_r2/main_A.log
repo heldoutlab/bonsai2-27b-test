@@ -1,0 +1,114 @@
+A / main: 90 items, 0 already done
+[1/90] R09 reasoning correct=True tokens=5475 938s
+[2/90] R21 reasoning correct=True tokens=3194 591s
+[3/90] R29 reasoning correct=True tokens=2978 592s
+Python(76399) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[4/90] C09 coding correct=True tokens=6582 1250s
+[5/90] T04 tools correct=True tokens=3243 644s
+Python(77468) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[6/90] C30 coding correct=True tokens=4578 807s
+[7/90] C03 coding correct=False tokens=16384 2928s TRUNCATED
+[8/90] R20 reasoning correct=False tokens=3182 576s
+[9/90] C22 coding correct=False tokens=16384 3028s TRUNCATED
+Python(84453) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[10/90] C05 coding correct=False tokens=16325 2881s
+Python(86366) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[11/90] C01 coding correct=True tokens=13444 2501s
+Python(87179) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[12/90] C24 coding correct=True tokens=5224 976s
+[13/90] R05 reasoning correct=True tokens=5536 988s
+[14/90] T09 tools correct=True tokens=4396 933s
+[15/90] T01 tools correct=True tokens=5246 1156s
+[16/90] T29 tools correct=True tokens=2044 514s
+Python(91178) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[17/90] C11 coding correct=True tokens=8628 1695s
+[18/90] T02 tools correct=True tokens=2735 548s
+[19/90] T03 tools correct=True tokens=3564 677s
+[20/90] T25 tools correct=True tokens=2485 542s
+Python(93276) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[21/90] C27 coding correct=True tokens=6199 1099s
+Python(94533) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[22/90] C26 coding correct=False tokens=8568 1616s
+[23/90] R16 reasoning correct=True tokens=3252 588s
+Python(96155) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[24/90] C04 coding correct=True tokens=9656 1776s
+[25/90] C02 coding correct=False tokens=16384 2929s TRUNCATED
+[26/90] T30 tools correct=True tokens=1910 419s
+[27/90] R10 reasoning correct=False tokens=8909 1612s
+[28/90] T18 tools correct=True tokens=2924 663s
+[29/90] R07 reasoning correct=True tokens=14908 2617s
+[30/90] T13 tools correct=True tokens=4468 980s
+[31/90] R11 reasoning correct=True tokens=9149 1645s
+[32/90] T28 tools correct=True tokens=1294 311s
+[33/90] T07 tools correct=True tokens=6295 1213s
+[34/90] R18 reasoning correct=True tokens=4886 859s
+[35/90] T06 tools correct=False tokens=1992 437s
+[36/90] R24 reasoning correct=True tokens=6261 1162s
+[37/90] R30 reasoning correct=True tokens=3582 626s
+[38/90] T21 tools correct=True tokens=7227 1400s
+Python(11371) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[39/90] C13 coding correct=True tokens=6932 1216s
+[40/90] T11 tools correct=True tokens=3067 655s
+[41/90] R15 reasoning correct=True tokens=2939 513s
+[42/90] R03 reasoning correct=True tokens=5807 1079s
+[43/90] T23 tools correct=True tokens=3604 727s
+[44/90] R13 reasoning correct=True tokens=7802 1360s
+[45/90] T14 tools correct=True tokens=1936 446s
+[46/90] T05 tools correct=True tokens=3792 750s
+[47/90] T12 tools correct=True tokens=6692 1359s
+[48/90] C10 coding correct=False tokens=16384 2910s TRUNCATED
+[49/90] T15 tools correct=True tokens=4824 988s
+[50/90] T16 tools correct=True tokens=4988 1036s
+[51/90] T17 tools correct=True tokens=2613 537s
+[52/90] R04 reasoning correct=True tokens=4177 755s
+[53/90] R19 reasoning correct=True tokens=4140 719s
+[54/90] T22 tools correct=True tokens=1935 464s
+Python(24596) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[55/90] C19 coding correct=True tokens=12269 2222s
+Python(25499) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[56/90] C17 coding correct=True tokens=6575 1166s
+[57/90] T20 tools correct=False tokens=1726 424s
+[58/90] C07 coding correct=False tokens=16384 2906s TRUNCATED
+Python(28901) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[59/90] C21 coding correct=True tokens=4950 947s
+Python(42898) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[60/90] C08 coding correct=True tokens=13011 2312s
+Python(44683) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[61/90] C25 coding correct=True tokens=14520 2622s
+[62/90] R26 reasoning correct=False tokens=10116 1776s
+[63/90] R28 reasoning correct=True tokens=3955 696s
+[64/90] R17 reasoning correct=True tokens=7333 1344s
+[65/90] R08 reasoning correct=True tokens=4199 732s
+[66/90] R27 reasoning correct=False tokens=16384 2908s TRUNCATED
+[67/90] C15 coding correct=False tokens=16384 2974s TRUNCATED
+[68/90] T27 tools correct=True tokens=1747 395s
+[69/90] R02 reasoning correct=True tokens=4479 789s
+[70/90] R23 reasoning correct=True tokens=11208 2016s
+Python(56756) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[71/90] C20 coding correct=True tokens=7300 1280s
+[72/90] T08 tools correct=True tokens=1909 434s
+[73/90] T26 tools correct=True tokens=2898 598s
+[74/90] R22 reasoning correct=True tokens=7553 1313s
+Python(59252) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[75/90] C18 coding correct=False tokens=3723 685s
+[76/90] T24 tools correct=True tokens=3012 705s
+[77/90] R25 reasoning correct=True tokens=8427 1478s
+[78/90] R01 reasoning correct=False tokens=6896 1199s
+Python(63546) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[79/90] C06 coding correct=False tokens=11430 2084s
+Python(64911) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[80/90] C16 coding correct=True tokens=10686 1885s
+Python(65930) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[81/90] C23 coding correct=True tokens=7622 1411s
+[82/90] R06 reasoning correct=False tokens=10915 1922s
+Python(68287) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[83/90] C28 coding correct=True tokens=4301 764s
+Python(69311) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[84/90] C29 coding correct=True tokens=5114 997s
+[85/90] R14 reasoning correct=True tokens=13686 2412s
+[86/90] R12 reasoning correct=True tokens=5276 917s
+[87/90] T10 tools correct=True tokens=4748 982s
+Python(73539) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[88/90] C12 coding correct=True tokens=5686 1047s
+[89/90] C14 coding correct=False tokens=16384 2909s TRUNCATED
+[90/90] T19 tools correct=False tokens=5956 1260s

@@ -1,0 +1,20 @@
+10-08 16:18 start main A (try 1) 
+10-10 00:12 done main A
+10-10 00:12 start main B (try 1) 
+10-10 23:17 done main B
+10-10 23:17 start noise A (try 1) 
+10-11 04:43 done noise A
+10-11 04:43 start noise B (try 1) 
+10-11 08:45 done noise B
+10-11 08:45 start xhigh A (try 1) 
+10-12 09:13 done xhigh A
+10-12 09:13 start xhigh B (try 1) 
+10-12 20:18 done xhigh B
+10-12 20:18 re-grading coding answers with the machine idle
+main A coding re-graded; changed: []
+main B coding re-graded; changed: []
+noise A coding re-graded; changed: []
+noise B coding re-graded; changed: []
+xhigh A coding re-graded; changed: []
+xhigh B coding re-graded; changed: []
+10-12 20:18 ALL DONE - report in results_r2/report.txt

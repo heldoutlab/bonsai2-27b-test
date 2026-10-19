@@ -1,0 +1,17 @@
+10-06 11:43 start main B (try 1) 
+10-06 13:49 done main B
+10-06 13:49 start pilot A on the fork
+10-06 14:22 projection: projected total hours: 50.7 (A 194 s/item pilot, scale 2.09) fallback=''
+10-06 14:22 start main A (try 1) 
+10-07 03:41 done main A
+10-07 03:41 start main C (try 1) 
+10-07 20:18 done main C
+10-07 20:18 start noise A (try 1) 
+10-08 00:34 done noise A
+10-08 00:34 start noise B (try 1) 
+10-08 03:33 done noise B
+10-08 03:33 start xhigh A (try 1) 
+10-08 05:53 done xhigh A
+10-08 05:53 start xhigh B (try 1) 
+10-08 07:45 done xhigh B
+10-08 07:45 ALL DONE - report in results/report.txt

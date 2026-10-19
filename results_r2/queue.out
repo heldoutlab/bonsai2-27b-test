@@ -1,0 +1,301 @@
+10-08 16:18 start main A (try 1) 
+A / main: 90 items, 0 already done
+[1/90] R09 reasoning correct=True tokens=5475 938s
+[2/90] R21 reasoning correct=True tokens=3194 591s
+[3/90] R29 reasoning correct=True tokens=2978 592s
+Python(76399) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[4/90] C09 coding correct=True tokens=6582 1250s
+[5/90] T04 tools correct=True tokens=3243 644s
+Python(77468) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[6/90] C30 coding correct=True tokens=4578 807s
+[7/90] C03 coding correct=False tokens=16384 2928s TRUNCATED
+[8/90] R20 reasoning correct=False tokens=3182 576s
+[9/90] C22 coding correct=False tokens=16384 3028s TRUNCATED
+Python(84453) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[10/90] C05 coding correct=False tokens=16325 2881s
+Python(86366) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[11/90] C01 coding correct=True tokens=13444 2501s
+Python(87179) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[12/90] C24 coding correct=True tokens=5224 976s
+[13/90] R05 reasoning correct=True tokens=5536 988s
+[14/90] T09 tools correct=True tokens=4396 933s
+[15/90] T01 tools correct=True tokens=5246 1156s
+[16/90] T29 tools correct=True tokens=2044 514s
+Python(91178) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[17/90] C11 coding correct=True tokens=8628 1695s
+[18/90] T02 tools correct=True tokens=2735 548s
+[19/90] T03 tools correct=True tokens=3564 677s
+[20/90] T25 tools correct=True tokens=2485 542s
+Python(93276) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[21/90] C27 coding correct=True tokens=6199 1099s
+Python(94533) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[22/90] C26 coding correct=False tokens=8568 1616s
+[23/90] R16 reasoning correct=True tokens=3252 588s
+Python(96155) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[24/90] C04 coding correct=True tokens=9656 1776s
+[25/90] C02 coding correct=False tokens=16384 2929s TRUNCATED
+[26/90] T30 tools correct=True tokens=1910 419s
+[27/90] R10 reasoning correct=False tokens=8909 1612s
+[28/90] T18 tools correct=True tokens=2924 663s
+[29/90] R07 reasoning correct=True tokens=14908 2617s
+[30/90] T13 tools correct=True tokens=4468 980s
+[31/90] R11 reasoning correct=True tokens=9149 1645s
+[32/90] T28 tools correct=True tokens=1294 311s
+[33/90] T07 tools correct=True tokens=6295 1213s
+[34/90] R18 reasoning correct=True tokens=4886 859s
+[35/90] T06 tools correct=False tokens=1992 437s
+[36/90] R24 reasoning correct=True tokens=6261 1162s
+[37/90] R30 reasoning correct=True tokens=3582 626s
+[38/90] T21 tools correct=True tokens=7227 1400s
+Python(11371) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[39/90] C13 coding correct=True tokens=6932 1216s
+[40/90] T11 tools correct=True tokens=3067 655s
+[41/90] R15 reasoning correct=True tokens=2939 513s
+[42/90] R03 reasoning correct=True tokens=5807 1079s
+[43/90] T23 tools correct=True tokens=3604 727s
+[44/90] R13 reasoning correct=True tokens=7802 1360s
+[45/90] T14 tools correct=True tokens=1936 446s
+[46/90] T05 tools correct=True tokens=3792 750s
+[47/90] T12 tools correct=True tokens=6692 1359s
+[48/90] C10 coding correct=False tokens=16384 2910s TRUNCATED
+[49/90] T15 tools correct=True tokens=4824 988s
+[50/90] T16 tools correct=True tokens=4988 1036s
+[51/90] T17 tools correct=True tokens=2613 537s
+[52/90] R04 reasoning correct=True tokens=4177 755s
+[53/90] R19 reasoning correct=True tokens=4140 719s
+[54/90] T22 tools correct=True tokens=1935 464s
+Python(24596) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[55/90] C19 coding correct=True tokens=12269 2222s
+Python(25499) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[56/90] C17 coding correct=True tokens=6575 1166s
+[57/90] T20 tools correct=False tokens=1726 424s
+[58/90] C07 coding correct=False tokens=16384 2906s TRUNCATED
+Python(28901) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[59/90] C21 coding correct=True tokens=4950 947s
+Python(42898) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[60/90] C08 coding correct=True tokens=13011 2312s
+Python(44683) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[61/90] C25 coding correct=True tokens=14520 2622s
+[62/90] R26 reasoning correct=False tokens=10116 1776s
+[63/90] R28 reasoning correct=True tokens=3955 696s
+[64/90] R17 reasoning correct=True tokens=7333 1344s
+[65/90] R08 reasoning correct=True tokens=4199 732s
+[66/90] R27 reasoning correct=False tokens=16384 2908s TRUNCATED
+[67/90] C15 coding correct=False tokens=16384 2974s TRUNCATED
+[68/90] T27 tools correct=True tokens=1747 395s
+[69/90] R02 reasoning correct=True tokens=4479 789s
+[70/90] R23 reasoning correct=True tokens=11208 2016s
+Python(56756) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[71/90] C20 coding correct=True tokens=7300 1280s
+[72/90] T08 tools correct=True tokens=1909 434s
+[73/90] T26 tools correct=True tokens=2898 598s
+[74/90] R22 reasoning correct=True tokens=7553 1313s
+Python(59252) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[75/90] C18 coding correct=False tokens=3723 685s
+[76/90] T24 tools correct=True tokens=3012 705s
+[77/90] R25 reasoning correct=True tokens=8427 1478s
+[78/90] R01 reasoning correct=False tokens=6896 1199s
+Python(63546) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[79/90] C06 coding correct=False tokens=11430 2084s
+Python(64911) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[80/90] C16 coding correct=True tokens=10686 1885s
+Python(65930) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[81/90] C23 coding correct=True tokens=7622 1411s
+[82/90] R06 reasoning correct=False tokens=10915 1922s
+Python(68287) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[83/90] C28 coding correct=True tokens=4301 764s
+Python(69311) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[84/90] C29 coding correct=True tokens=5114 997s
+[85/90] R14 reasoning correct=True tokens=13686 2412s
+[86/90] R12 reasoning correct=True tokens=5276 917s
+[87/90] T10 tools correct=True tokens=4748 982s
+Python(73539) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+[88/90] C12 coding correct=True tokens=5686 1047s
+[89/90] C14 coding correct=False tokens=16384 2909s TRUNCATED
+[90/90] T19 tools correct=False tokens=5956 1260s
+10-10 00:12 done main A
+10-10 00:12 start main B (try 1) 
+B / main: 90 items, 0 already done
+[1/90] R09 reasoning correct=True tokens=9664 959s
+[2/90] R21 reasoning correct=False tokens=2004 200s
+[3/90] R29 reasoning correct=True tokens=4303 428s
+[4/90] C09 coding correct=False tokens=9692 979s
+[5/90] T04 tools correct=True tokens=6811 778s
+[6/90] C30 coding correct=True tokens=4988 510s
+[7/90] C03 coding correct=False tokens=16384 1700s TRUNCATED
+[8/90] R20 reasoning correct=False tokens=3733 378s
+[9/90] C22 coding correct=True tokens=11381 1210s
+[10/90] C05 coding correct=False tokens=16384 1700s TRUNCATED
+[11/90] C01 coding correct=False tokens=16384 1697s TRUNCATED
+[12/90] C24 coding correct=True tokens=6769 689s
+[13/90] R05 reasoning correct=True tokens=5457 549s
+[14/90] T09 tools correct=True tokens=12695 1471s
+[15/90] T01 tools correct=True tokens=14079 1541s
+[16/90] T29 tools correct=True tokens=3586 452s
+[17/90] C11 coding correct=True tokens=6341 636s
+[18/90] T02 tools correct=True tokens=2304 311s
+[19/90] T03 tools correct=True tokens=2546 303s
+[20/90] T25 tools correct=True tokens=3327 410s
+[21/90] C27 coding correct=True tokens=9777 990s
+[22/90] C26 coding correct=False tokens=6544 660s
+[23/90] R16 reasoning correct=True tokens=3384 338s
+[24/90] C04 coding correct=True tokens=9970 1018s
+[25/90] C02 coding correct=False tokens=16384 1705s TRUNCATED
+[26/90] T30 tools correct=True tokens=6178 714s
+[27/90] R10 reasoning correct=False tokens=16384 1663s TRUNCATED
+[28/90] T18 tools correct=True tokens=5527 678s
+[29/90] R07 reasoning correct=False tokens=13622 1382s
+[30/90] T13 tools correct=True tokens=12584 1428s
+[31/90] R11 reasoning correct=True tokens=13087 1329s
+[32/90] T28 tools correct=True tokens=2129 310s
+[33/90] T07 tools correct=True tokens=7208 843s
+[34/90] R18 reasoning correct=False tokens=5843 581s
+[35/90] T06 tools correct=False tokens=3544 437s
+[36/90] R24 reasoning correct=True tokens=8711 874s
+[37/90] R30 reasoning correct=True tokens=2884 292s
+[38/90] T21 tools correct=True tokens=11905 1334s
+[39/90] C13 coding correct=False tokens=9044 905s
+[40/90] T11 tools correct=True tokens=8923 1022s
+[41/90] R15 reasoning correct=True tokens=14064 1421s
+[42/90] R03 reasoning correct=False tokens=6270 624s
+[43/90] T23 tools correct=True tokens=10745 1210s
+[44/90] R13 reasoning correct=True tokens=9049 910s
+[45/90] T14 tools correct=True tokens=3747 479s
+[46/90] T05 tools correct=True tokens=9431 1038s
+[47/90] T12 tools correct=True tokens=10097 1236s
+[48/90] C10 coding correct=False tokens=16384 1694s TRUNCATED
+[49/90] T15 tools correct=True tokens=6911 837s
+[50/90] T16 tools correct=True tokens=4911 569s
+[51/90] T17 tools correct=True tokens=4241 531s
+[52/90] R04 reasoning correct=True tokens=3938 398s
+[53/90] R19 reasoning correct=True tokens=5139 511s
+[54/90] T22 tools correct=True tokens=6245 845s
+[55/90] C19 coding correct=True tokens=12866 1306s
+[56/90] C17 coding correct=True tokens=4984 506s
+[57/90] T20 tools correct=True tokens=3652 467s
+[58/90] C07 coding correct=False tokens=16384 1686s TRUNCATED
+[59/90] C21 coding correct=True tokens=4736 479s
+[60/90] C08 coding correct=False tokens=16384 1696s TRUNCATED
+[61/90] C25 coding correct=False tokens=8559 865s
+[62/90] R26 reasoning correct=False tokens=7568 766s
+[63/90] R28 reasoning correct=False tokens=4377 440s
+[64/90] R17 reasoning correct=True tokens=7859 784s
+[65/90] R08 reasoning correct=False tokens=3256 325s
+[66/90] R27 reasoning correct=False tokens=16384 1680s TRUNCATED
+[67/90] C15 coding correct=False tokens=16384 1699s TRUNCATED
+[68/90] T27 tools correct=True tokens=3665 454s
+[69/90] R02 reasoning correct=True tokens=4164 417s
+[70/90] R23 reasoning correct=True tokens=3584 359s
+[71/90] C20 coding correct=False tokens=16384 1708s TRUNCATED
+[72/90] T08 tools correct=True tokens=12540 1418s
+[73/90] T26 tools correct=True tokens=5993 697s
+[74/90] R22 reasoning correct=True tokens=9602 974s
+[75/90] C18 coding correct=True tokens=6753 676s
+[76/90] T24 tools correct=True tokens=8258 1030s
+[77/90] R25 reasoning correct=True tokens=7786 788s
+[78/90] R01 reasoning correct=False tokens=12645 1289s
+[79/90] C06 coding correct=True tokens=10953 1113s
+[80/90] C16 coding correct=False tokens=11761 1210s
+[81/90] C23 coding correct=False tokens=8215 838s
+[82/90] R06 reasoning correct=False tokens=16384 1678s TRUNCATED
+[83/90] C28 coding correct=True tokens=7132 730s
+[84/90] C29 coding correct=True tokens=8570 888s
+[85/90] R14 reasoning correct=True tokens=7257 731s
+[86/90] R12 reasoning correct=True tokens=5005 499s
+[87/90] T10 tools correct=True tokens=11249 1265s
+[88/90] C12 coding correct=True tokens=8535 866s
+[89/90] C14 coding correct=False tokens=16384 1692s TRUNCATED
+[90/90] T19 tools correct=True tokens=12093 1378s
+10-10 23:17 done main B
+10-10 23:17 start noise A (try 1) 
+A / noise: 18 items, 0 already done
+[1/18] R09 reasoning correct=True tokens=9529 1700s
+[2/18] R21 reasoning correct=True tokens=3538 644s
+[3/18] R29 reasoning correct=True tokens=3961 714s
+[4/18] C09 coding correct=False tokens=4692 822s
+[5/18] T04 tools correct=True tokens=1818 383s
+[6/18] C30 coding correct=True tokens=6468 1130s
+[7/18] C03 coding correct=True tokens=13090 2387s
+[8/18] R20 reasoning correct=True tokens=3578 622s
+[9/18] C22 coding correct=True tokens=8139 1422s
+[10/18] C05 coding correct=False tokens=12032 2205s
+[11/18] C01 coding correct=False tokens=16384 2982s TRUNCATED
+[12/18] R05 reasoning correct=True tokens=4107 724s
+[13/18] T09 tools correct=True tokens=4592 957s
+[14/18] T01 tools correct=True tokens=1830 407s
+[15/18] T29 tools correct=False tokens=4857 968s
+[16/18] T02 tools correct=True tokens=2512 529s
+[17/18] T03 tools correct=True tokens=2065 433s
+[18/18] R16 reasoning correct=True tokens=2280 464s
+10-11 04:43 done noise A
+10-11 04:43 start noise B (try 1) 
+B / noise: 18 items, 0 already done
+[1/18] R09 reasoning correct=False tokens=8307 820s
+[2/18] R21 reasoning correct=True tokens=5816 575s
+[3/18] R29 reasoning correct=True tokens=3516 350s
+[4/18] C09 coding correct=False tokens=11789 1195s
+[5/18] T04 tools correct=True tokens=4627 545s
+[6/18] C30 coding correct=True tokens=5184 525s
+[7/18] C03 coding correct=False tokens=16384 1689s TRUNCATED
+[8/18] R20 reasoning correct=False tokens=3339 333s
+[9/18] C22 coding correct=True tokens=5858 590s
+[10/18] C05 coding correct=False tokens=16384 1696s TRUNCATED
+[11/18] C01 coding correct=False tokens=16384 1704s TRUNCATED
+[12/18] R05 reasoning correct=True tokens=4795 477s
+[13/18] T09 tools correct=True tokens=9771 1156s
+[14/18] T01 tools correct=True tokens=4778 561s
+[15/18] T29 tools correct=True tokens=7905 895s
+[16/18] T02 tools correct=True tokens=4934 582s
+[17/18] T03 tools correct=True tokens=4265 489s
+[18/18] R16 reasoning correct=True tokens=3585 359s
+10-11 08:45 done noise B
+10-11 08:45 start xhigh A (try 1) 
+A / xhigh: 18 items, 0 already done
+[1/18] R09 reasoning correct=True tokens=13222 2420s
+[2/18] R21 reasoning correct=True tokens=4496 772s
+[3/18] R29 reasoning correct=True tokens=5743 992s
+[4/18] C09 coding correct=False tokens=23582 4291s
+[5/18] C30 coding correct=True tokens=26655 4872s
+[6/18] C03 coding correct=True tokens=32678 29870s
+[7/18] R20 reasoning correct=True tokens=3169 569s
+[8/18] C22 coding correct=True tokens=25340 4522s
+[9/18] C05 coding correct=False tokens=32768 6082s TRUNCATED
+[10/18] C01 coding correct=False tokens=32768 6434s TRUNCATED
+[11/18] C24 coding correct=False tokens=32768 6031s TRUNCATED
+[12/18] R05 reasoning correct=True tokens=4217 773s
+[13/18] C11 coding correct=True tokens=19376 3436s
+[14/18] C27 coding correct=False tokens=32768 6031s TRUNCATED
+[15/18] R16 reasoning correct=True tokens=3291 601s
+[16/18] R10 reasoning correct=True tokens=21603 3872s
+[17/18] R07 reasoning correct=True tokens=25446 4578s
+[18/18] R11 reasoning correct=True tokens=10852 1895s
+10-12 09:13 done xhigh A
+10-12 09:13 start xhigh B (try 1) 
+B / xhigh: 18 items, 0 already done
+[1/18] R09 reasoning correct=True tokens=17954 1836s
+[2/18] R21 reasoning correct=True tokens=5690 563s
+[3/18] R29 reasoning correct=True tokens=7080 702s
+[4/18] C09 coding correct=True tokens=26170 2777s
+[5/18] C30 coding correct=True tokens=26355 2807s
+[6/18] C03 coding correct=True tokens=30411 3266s
+[7/18] R20 reasoning correct=False tokens=4169 418s
+[8/18] C22 coding correct=True tokens=30432 3382s
+[9/18] C05 coding correct=False tokens=32768 3662s TRUNCATED
+[10/18] C01 coding correct=False tokens=32768 3570s TRUNCATED
+[11/18] C24 coding correct=True tokens=27081 2883s
+[12/18] R05 reasoning correct=True tokens=4385 454s
+[13/18] C11 coding correct=True tokens=13289 1348s
+[14/18] C27 coding correct=False tokens=32768 3973s TRUNCATED
+[15/18] R16 reasoning correct=True tokens=4460 566s
+[16/18] R10 reasoning correct=True tokens=31121 3593s
+[17/18] R07 reasoning correct=True tokens=26032 2757s
+[18/18] R11 reasoning correct=True tokens=12940 1328s
+10-12 20:18 done xhigh B
+10-12 20:18 re-grading coding answers with the machine idle
+main A coding re-graded; changed: []
+main B coding re-graded; changed: []
+noise A coding re-graded; changed: []
+noise B coding re-graded; changed: []
+xhigh A coding re-graded; changed: []
+xhigh B coding re-graded; changed: []
+10-12 20:18 ALL DONE - report in results_r2/report.txt
