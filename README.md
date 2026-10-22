@@ -1,6 +1,8 @@
 # Bonsai 2 27B: is it near-lossless?
 
-Everything behind the post *Bonsai 2 really does retain 98.2% of the 4-bit Qwen3.8 27B’s score. Until the tasks get harder.*: the pre-registrations, every task with its answer key, the test harness, and every raw model output.
+Everything behind the post [*Bonsai 2 really does retain 98.2% of the 4-bit Qwen3.8 27B’s score. Until the tasks get harder.*](https://heldoutlab.substack.com/p/bonsai-2-27b-tested-near-lossless): the pre-registrations, every task with its answer key, the test harness, and every raw model output.
+
+Part of [Held Out Lab](https://heldoutlab.substack.com): independent tests of AI model claims, with the rules fixed before the run. [Subscribe](https://heldoutlab.substack.com/subscribe) to get the next test, or write to hello@heldoutlab.com.
 
 **Result in brief.** PrismML's Bonsai 2 27B (5.95 GB, ternary) against Qwen3.8 27B at 4-bit (UD-Q4_K_XL, 17.6 GB), reasoning effort `medium`:
 
